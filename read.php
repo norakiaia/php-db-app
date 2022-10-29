@@ -1,6 +1,9 @@
 <?PHP
- $dsn = 'mysql:dbname=php_db_app;host=localhost;charset=utf8mb4';
- $user = 'root';
+ //$dsn = 'mysql:dbname=php_db_app;host=localhost;charset=utf8mb4';
+ //$user = 'root';
+ $dsn = 'mysql:dbname=heroku_b8e055a683c90dd;host=us-cdbr-east-06.cleardb.net;charset=utf8mb4';
+ $user = 'bb74978315e302';
+ $password = '53146af4';
 // MAMPを利用しているMacユーザーの方は、''ではなく'root'を代入してください
  $password = '';
  
